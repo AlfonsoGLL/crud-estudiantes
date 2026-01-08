@@ -1,0 +1,11 @@
+# dependencies (en cualquier carpeta)
+node_modules/
+
+# Angular build
+dist/
+.angular/
+coverage/
+
+# env
+.env
+.env.*
